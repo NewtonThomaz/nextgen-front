@@ -1,0 +1,20 @@
+.acomphana {
+    width: 55dvw;
+
+    h2 {
+        border-left: 4px solid #242D10;
+        padding-left: 1rem;
+        font-size: 3rem;
+        font-weight: 600;
+        margin-block: 20px;
+    }
+
+    ul {
+        list-style-type: disc;
+        padding-left: 20px;
+
+        li {
+            font-size: 1.6rem;
+        }
+    }
+}

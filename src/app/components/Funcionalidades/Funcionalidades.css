@@ -1,0 +1,20 @@
+.funcoes {
+    width: 25dvw;
+
+    h2 {
+        border-left: 5px solid #37421F;
+        padding: 12px 20px 12px 15px;
+        font-size: 3rem;
+        font-weight: 600;
+        margin-block: 20px;
+    }
+
+    ul {
+        list-style-type: disc;
+        padding-left: 20px;
+
+        li {
+            font-size: 1.6rem;
+        }
+    }
+}

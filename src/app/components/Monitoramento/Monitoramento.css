@@ -1,0 +1,19 @@
+.esquerda {
+    text-align: end;
+    background-image: linear-gradient(to right, #37421FB3, #729032);
+    padding-right: 2.5rem;
+}
+
+.direita {
+    text-align: start;
+    background-image: linear-gradient(to right, #729032, #37421FB3);
+    padding-left: 2.5rem;
+}
+
+.direita,
+    .esquerda {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 20vw;
+    border-radius: 20px;
+}
